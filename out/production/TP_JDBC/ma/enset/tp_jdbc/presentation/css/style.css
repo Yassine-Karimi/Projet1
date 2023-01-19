@@ -1,0 +1,29 @@
+.button{
+    -fx-background-color: #00CAC0;
+}
+.btn-add{
+    -fx-background-color: #00CAC0;
+    -fx-font-weight: bold;
+}
+.text-field:focused{
+    -fx-background-color: #cfe5e2;
+    -fx-border-color: #0089A0;
+    -fx-border-radius: 5px;
+    -fx-end-margin: 26px;
+}
+.cell:hover{
+    -fx-background-color:#00CAC0 ;
+}
+.cell:focused{
+    -fx-background-color: #0089B8;
+}
+.root{
+    -fx-background-color: #006F9A;
+    -fx-border-color: #fffa2c;
+}
+.label{
+    -fx-font-size: 17px;
+    -fx-font-style: italic;
+    -fx-font-weight: bold;
+    -fx-text-fill: #362a2a;
+}
